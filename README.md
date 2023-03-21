@@ -1,3 +1,4 @@
+![say](https://user-images.githubusercontent.com/44240533/226494047-6642b5a9-8171-4eca-bb61-b4161475ed18.svg)
 # Say
 
 Welcome to Say on Exercism's Java Track.
